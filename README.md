@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgebadran" alt="jorgebadran" /></a> </p>
 
-- 🔭 I’m currently working on **Ecomerce**
+- 🔭 I’m currently working on **restaurant management software**
 
 - 🌱 I’m currently learning **Angular**
 
