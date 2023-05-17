@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge De Jesus Badran</h1>
-<h3 align="center">Backend Developer from Colombia</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgebadran" alt="jorgebadran" /></a> </p>
 
