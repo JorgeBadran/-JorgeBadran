@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://jorgebadran.github.io/](https://jorgebadran.github.io/)
+- 👨‍💻 All of my projects are available at https://jorgebadran.vercel.app/
 
 - 📫 How to reach me **jorgebadran08@gmail.com**
 
